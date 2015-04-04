@@ -35,14 +35,14 @@
   "dependencies": {
     "jquery": ">=1.11 <2.0 || >= 2.1.1"
   },
-+ "autoupdate": {
-+   "source": "git",
-+   "target": "git://github.com/StephanWagner/jBox.git",
-+   "basePath": "/Source/",
-+   "files": [
-+     "jBox.css",
-+     "jBox.min.js",
-+     "jBox.js",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/StephanWagner/jBox.git",
+    "basePath": "/Source/",
+    "files": [
+      "jBox.css",
+      "jBox.min.js",
+      "jBox.js",
       "themes/ModalBorder.css",
       "themes/NoticeBorder.css",
       "themes/TooltipBorder.css",
@@ -73,6 +73,6 @@
       "audio/bloop1.ogg",
       "audio/bloop2.ogg",
       "audio/bloop3.ogg",
-+   ]
-+  }
+    ]
+   }
 }
